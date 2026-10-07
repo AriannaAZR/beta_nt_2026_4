@@ -22,7 +22,7 @@ random.seed(42)
 
 #4Identifico los datos o el dato que sea selector y escrbiho los elementos.
 
-ROLES = ["ADMIN", "EMPRESA", "PARTICIPANTE"]
+ROLES = ["ADMIN", "EMPRESA", "PARTICIPANTE","INVITADO"]
 
 #5Defino mi dataset
 FILAS = 250
