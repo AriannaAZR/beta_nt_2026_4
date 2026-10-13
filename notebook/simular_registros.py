@@ -3,7 +3,7 @@ import uuid
 from faker import Faker
 import pandas as pd
 
-# Configuración del faker a la región que necesito
+# Configuración del faker a la región que necesito.
 fake = Faker('es_CO')
 
 # Sembrar semillas para mantener coherencia en los datos simulados
